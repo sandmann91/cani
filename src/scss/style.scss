@@ -1,0 +1,9 @@
+// Variablen die in Bootstrap existieren, die wir überschrieben
+// @import "variables_bootstrap.scss";
+
+// Import Bootstrap 5
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Import aus anderen SCSS Files
+@import "main.scss";
+
